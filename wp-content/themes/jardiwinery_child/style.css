@@ -1,0 +1,83 @@
+@charset 'utf-8';
+/*
+ Theme Name:   JardiWinery Child
+ Theme URI:    http://jardiwinery.ancorathemes.com/
+ Description:  JardiWinery - Fully Responsive and Mobile Friendly theme
+ Author:       AncoraThemes
+ Author URI:   http://ancorathemes.com/
+ Template:     jardiwinery
+ Version:      1.0
+ Tags:         light, inheritable theme-options
+ Text Domain:  jardiwinery
+*/
+
+
+@import url("../jardiwinery/style.css");
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+ .top_panel_middle .logo {
+   margin-top: 10px !important;
+   margin-bottom: 10px !important;
+ }
+.top_panel_middle .menu_main_wrap {
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+}
+.bg-wineyard {
+  background-image: url('http://localhost:8888/Wordpress/wp-content/uploads/2016/12/bg-02.jpg');
+  height: 759px;
+}
+.scheme_original h3 {
+  color: white !important;
+}
+.p0 {
+    padding: 0;
+}
+.mt90 {
+    margin-top: 90px;
+}
+.posrel {
+    position: relative;
+}
+.posabs {
+    position: absolute;
+}
+.bg-darkgrey {
+    background-color: #2c3136 !important;
+}
+.txt-white {
+    color: white  !important;
+}
+.txt-gold {
+    color: #b2936d  !important;
+}
+.text-center {
+    text-align: center;
+}
+.bottom {
+    padding: 15px  !important;
+}
+.pointer {
+    width: 8px !important;
+    height: 8px !important;
+    background-color: white !important;
+    border: 7px solid #b2936d !important;
+    border-radius: 17px !important;
+    z-index: 200;
+}
+.title-homepage {
+    width: 620px;
+    margin: 0 auto;
+    font-size: 52px;
+    color: white  !important;
+    padding: 30px;
+    background-color: rgba(0, 0, 0, 0.3)  !important;
+}
+.scheme_original h3 {
+    color: #2c3136 !important;
+}
+.sc_section_title {
+    color: #ffffff !important;
+}

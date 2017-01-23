@@ -1,0 +1,8 @@
+19.12.2016 19:40:57 Dispatch action: import_tpl
+19.12.2016 19:40:57 Import Templates Options. Attempt 1.
+19.12.2016 19:40:57 AJAX handler finished - send results to client: {"action":"import_tpl","error":"","result":100}
+19.12.2016 19:40:59 Dispatch action: import_widgets
+19.12.2016 19:40:59 Import Widgets. Attempt 1.
+19.12.2016 19:40:59 AJAX handler finished - send results to client: {"action":"import_widgets","error":"","result":100}
+19.12.2016 19:41:01 Dispatch action: import_end
+19.12.2016 19:41:02 AJAX handler finished - send results to client: {"action":"import_end","error":"","result":"100"}
